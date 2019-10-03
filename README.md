@@ -3,6 +3,11 @@ Selected exercises from Udemy course by Colt Steele: <a href="https://www.udemy.
 <br>
 Course started on 9/29/2019
 
+### Selected Exercises
+<ul>
+  <li>Section 14: <a href="https://github.com/htran922/the-web-developer-bootcamp/blob/master/JavaScript/moviesDB.js">Movie Database</a></li>
+</ul>
+
 ### Tools and Technologies Covered:
 <ul>
   <li>HTML5</li>
