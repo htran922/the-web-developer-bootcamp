@@ -1,5 +1,6 @@
 # the-web-developer-bootcamp
 Selected exercises from Udemy course by Colt Steele: <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a>
+<br>
 Course started on 9/29/2019
 
 ### Tools and Technologies Covered:
