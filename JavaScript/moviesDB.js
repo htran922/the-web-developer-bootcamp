@@ -22,9 +22,9 @@ var movie = [
 ]
 
 movie.forEach(element => {
-    if (element.hasWatched === true){
+    if (element.hasWatched){
         console.log(`You have watched "${element.title}" - ${element.rating} stars`)
     } else {
-        console.log(`You have not watched "${element.title}" - ${element.rating} stars`)
+        console.log(`You have not seen "${element.title}" - ${element.rating} stars`)
     }
 });
